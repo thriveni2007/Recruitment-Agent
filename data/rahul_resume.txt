@@ -1,0 +1,40 @@
+RAHUL VERMA
+Email: rahul.verma@email.com | Phone: +91-87654-32109 | LinkedIn: linkedin.com/in/rahul-verma
+
+EDUCATION
+B.Tech in Mechanical Engineering, VIT Vellore (2019-2023) | CGPA: 7.2/10
+
+SKILLS
+Python (Basic), C++, MATLAB, Excel, AutoCAD, Git (basic), HTML, CSS
+
+PROJECTS
+
+1. Automated Irrigation System (2022)
+   Designed an Arduino-based irrigation controller using soil moisture sensors.
+   Used basic C++ for microcontroller programming. Team of 4.
+
+2. Portfolio Website (2023)
+   Built a personal portfolio website using HTML, CSS, and JavaScript.
+   Hosted on GitHub Pages.
+
+3. Data Analysis of COVID-19 Trends (2021)
+   Used Excel and Python (Pandas) to visualize COVID-19 case trends in India.
+   Created dashboards in Tableau Public.
+
+EXPERIENCE
+Graduate Trainee — ABC Manufacturing (2023-2024)
+- Worked in production planning and quality control for 8 months.
+- Used Excel for inventory tracking and reporting.
+- No software development or ML work.
+
+Teaching Assistant — VIT Vellore (2022)
+- Assisted in Engineering Graphics lab for first-year students.
+
+CERTIFICATIONS
+- Python for Everybody — Coursera (Completed)
+- Google Data Analytics Professional Certificate (In Progress)
+
+ADDITIONAL INFO
+- Good communication skills in English and Hindi.
+- Interested in transitioning to a software/tech role.
+- Note: I am currently learning machine learning through online courses and am eager to apply my analytical skills to AI problems. I understand I lack direct ML experience but I am a fast learner.

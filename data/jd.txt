@@ -1,0 +1,33 @@
+TechVest — Junior AI Engineer
+
+Location: Bangalore, India (Hybrid)
+Employment Type: Full-time
+Experience: 0–2 years
+
+About TechVest
+TechVest is a fast-growing fintech startup building AI-powered investment tools for retail investors. We are looking for a Junior AI Engineer to join our small, high-impact ML team.
+
+Responsibilities
+- Develop and maintain ML models for financial prediction and recommendation systems.
+- Build and deploy RAG pipelines for financial document Q&A.
+- Write clean, tested Python code in a collaborative team environment.
+- Work with LLM APIs (OpenAI, Anthropic, or open-source models via Hugging Face).
+- Participate in code reviews and contribute to technical design discussions.
+
+Requirements (Essential)
+- Proficiency in Python (NumPy, Pandas, scikit-learn).
+- Understanding of machine learning fundamentals (supervised learning, feature engineering, evaluation metrics).
+- Experience with at least one LLM framework (LangChain, LlamaIndex, or similar).
+- Familiarity with version control (Git) and basic CI/CD concepts.
+- Strong written and verbal communication skills in English.
+
+Nice-to-Have
+- Experience with RAG pipelines (vector databases, embeddings, retrieval).
+- Exposure to financial data or investment concepts.
+- Experience with Docker and cloud deployment (AWS/GCP).
+- Contributions to open-source ML projects.
+
+What We Offer
+- Competitive salary + equity.
+- Learning budget for courses and conferences.
+- Mentorship from senior ML engineers.

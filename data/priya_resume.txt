@@ -1,0 +1,38 @@
+PRIYA SHARMA
+Email: priya.sharma@email.com | Phone: +91-98765-43210 | GitHub: github.com/priya-ml
+
+EDUCATION
+B.Tech in Computer Science, IIT Bombay (2021-2025) | CGPA: 8.7/10
+
+SKILLS
+Python, NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, LangChain, Hugging Face,
+Git, Docker, FastAPI, PostgreSQL, REST APIs, RAG pipelines, ChromaDB, OpenAI API
+
+PROJECTS
+
+1. FinRAG — Financial Document Q&A System (2024)
+   Built a RAG pipeline using LangChain, ChromaDB, and GPT-4 for querying financial reports.
+   Achieved 92% retrieval accuracy on a test set of 500+ SEC filings.
+   Deployed as a FastAPI service with Docker.
+
+2. StockTrend Predictor (2023)
+   Developed LSTM-based model for short-term stock price prediction using Yahoo Finance data.
+   Achieved 73% directional accuracy. Published analysis on Medium (500+ reads).
+
+3. ML Pipeline Automation (2024)
+   Built an automated ML pipeline with scikit-learn pipelines, feature engineering, and
+   hyperparameter tuning using Optuna. Integrated with MLflow for experiment tracking.
+
+EXPERIENCE
+AI Research Intern — FinTech Labs (Summer 2024)
+- Developed a recommendation system for financial news articles using BERT embeddings.
+- Reduced cold-start problem by 35% using content-based filtering.
+- Presented findings to the VP of Engineering.
+
+CERTIFICATIONS
+- Deep Learning Specialization — deeplearning.ai
+- AWS Cloud Practitioner (In Progress)
+
+ACHIEVEMENTS
+- Winner, Inter-IIT Tech Meet 2024 — ML Track
+- Published 2 blog posts on "LLMs in Finance" on Medium
